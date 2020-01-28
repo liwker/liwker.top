@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Liwker</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-01-28T12:55:45.432Z</updated>
+  <updated>2020-01-28T13:14:18.611Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,24 +17,22 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>My New Post</title>
-    <link href="http://yoursite.com/2020/01/28/new/"/>
-    <id>http://yoursite.com/2020/01/28/new/</id>
-    <published>2020-01-28T12:51:32.000Z</published>
-    <updated>2020-01-28T12:55:45.432Z</updated>
+    <title>This is New page</title>
+    <link href="http://yoursite.com/2020/01/28/This-is-New-page/"/>
+    <id>http://yoursite.com/2020/01/28/This-is-New-page/</id>
+    <published>2020-01-28T13:10:38.000Z</published>
+    <updated>2020-01-28T13:14:18.611Z</updated>
     
-    <content type="html"><![CDATA[<p>这只是一个test <em>(:з」∠)</em></p><img src="E:\桌面\Git\public\img\er.jpg" style="zoom:50%;" /><blockquote><p>嘻嘻(#^.^#)</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<p>这是一个test哟 <em>(:з」∠)</em></p><img src="/.com//er.jpg" style="zoom:50%;"><p>​    嘻嘻(#^.^#)</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;这只是一个test &lt;em&gt;(:з」∠)&lt;/em&gt;&lt;/p&gt;
-&lt;img src=&quot;E:\桌面\Git\public\img\er.jpg&quot; style=&quot;zoom:50%;&quot; /&gt;
+        &lt;p&gt;这是一个test哟 &lt;em&gt;(:з」∠)&lt;/em&gt;&lt;/p&gt;
+&lt;img src=&quot;/.com//er.jpg&quot; style=&quot;zoom:50%;&quot;&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;嘻嘻(#^.^#)&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;​    嘻嘻(#^.^#)&lt;/p&gt;
 
       
     
@@ -49,16 +47,18 @@
     <link href="http://yoursite.com/2020/01/28/hello-world/"/>
     <id>http://yoursite.com/2020/01/28/hello-world/</id>
     <published>2020-01-28T10:35:36.968Z</published>
-    <updated>2020-01-28T12:50:39.962Z</updated>
+    <updated>2020-01-28T13:14:29.265Z</updated>
     
-    <content type="html"><![CDATA[<p>​    花了一天时间终于弄出个样儿来啦^_^。</p><p>以后欢迎大家来踩点哟(＾Ｕ＾)ノ~ＹＯ</p>]]></content>
+    <content type="html"><![CDATA[<p>​    花了一天时间终于弄出个样儿来啦^_^。</p><img src="/.com//logo.jpg" style="zoom: 33%;"><p>​    以后欢迎大家来踩点哟(＾Ｕ＾)ノ~ＹＯ</p>]]></content>
     
     <summary type="html">
     
       
       
         &lt;p&gt;​    花了一天时间终于弄出个样儿来啦^_^。&lt;/p&gt;
-&lt;p&gt;以后欢迎大家来踩点哟(＾Ｕ＾)ノ~ＹＯ&lt;/p&gt;
+&lt;img src=&quot;/.com//logo.jpg&quot; style=&quot;zoom: 33%;&quot;&gt;
+
+&lt;p&gt;​    以后欢迎大家来踩点哟(＾Ｕ＾)ノ~ＹＯ&lt;/p&gt;
 
       
     
