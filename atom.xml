@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Liwker</title>
   
-  <subtitle>liwker</subtitle>
+  <subtitle>Life is never static!</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://liwker.github.io/"/>
   <updated>2020-01-28T13:50:01.430Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://liwker.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Liwker</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>This is New page</title>
-    <link href="http://yoursite.com/2020/01/28/This-is-New-page/"/>
-    <id>http://yoursite.com/2020/01/28/This-is-New-page/</id>
+    <link href="https://liwker.github.io/2020/01/28/This-is-New-page/"/>
+    <id>https://liwker.github.io/2020/01/28/This-is-New-page/</id>
     <published>2020-01-28T13:10:38.000Z</published>
     <updated>2020-01-28T13:50:01.430Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/01/28/hello-world/"/>
-    <id>http://yoursite.com/2020/01/28/hello-world/</id>
+    <link href="https://liwker.github.io/2020/01/28/hello-world/"/>
+    <id>https://liwker.github.io/2020/01/28/hello-world/</id>
     <published>2020-01-28T10:35:36.968Z</published>
     <updated>2020-01-28T13:47:56.595Z</updated>
     
