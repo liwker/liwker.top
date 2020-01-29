@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://liwker.github.io/"/>
-  <updated>2020-01-28T13:50:01.430Z</updated>
+  <updated>2020-01-29T11:43:16.179Z</updated>
   <id>https://liwker.github.io/</id>
   
   <author>
@@ -17,20 +17,21 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>This is New page</title>
-    <link href="https://liwker.github.io/2020/01/28/This-is-New-page/"/>
-    <id>https://liwker.github.io/2020/01/28/This-is-New-page/</id>
-    <published>2020-01-28T13:10:38.000Z</published>
-    <updated>2020-01-28T13:50:01.430Z</updated>
+    <title>new page</title>
+    <link href="https://liwker.github.io/2020/01/29/new-page/"/>
+    <id>https://liwker.github.io/2020/01/29/new-page/</id>
+    <published>2020-01-29T11:31:23.000Z</published>
+    <updated>2020-01-29T11:43:16.179Z</updated>
     
-    <content type="html"><![CDATA[<p>这是一个test哟 <em>(:з」∠)</em></p><p><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1580229470055&di=c312fd1c9c72c17085461b5538776c0f&imgtype=0&src=http%3A%2F%2Fcomic.people.com.cn%2FNMediaFile%2F2014%2F1219%2FMAIN201412191006000280747316081.jpg" alt="示例图片"></p><p>​    嘻嘻(#^.^#)</p>]]></content>
+    <content type="html"><![CDATA[<p>这是一个test哟   <em>(:з」∠)</em></p><p><img src="/images/er.jpg" alt="示例图片" title="卡哇伊~"></p><pre><code>嘻嘻(#^.^#)</code></pre>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;这是一个test哟 &lt;em&gt;(:з」∠)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://timgsa.baidu.com/timg?image&amp;quality=80&amp;size=b9999_10000&amp;sec=1580229470055&amp;di=c312fd1c9
+        &lt;p&gt;这是一个test哟   &lt;em&gt;(:з」∠)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/er.jpg&quot; alt=&quot;示例图片&quot; title=&quot;卡哇伊~&quot;&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;嘻嘻(#^.^#)&lt;/code&gt;&lt;/pre&gt;
       
     
     </summary>
@@ -44,17 +45,18 @@
     <link href="https://liwker.github.io/2020/01/28/hello-world/"/>
     <id>https://liwker.github.io/2020/01/28/hello-world/</id>
     <published>2020-01-28T10:35:36.968Z</published>
-    <updated>2020-01-29T11:05:39.816Z</updated>
+    <updated>2020-01-29T11:43:44.681Z</updated>
     
-    <content type="html"><![CDATA[<p>​    花了一天时间终于弄出个样儿来啦^_^。</p><p><img src="/.io//%E5%92%8C%E6%B3%89%E7%BA%B1%E9%9B%BE.jpg" alt="纱雾" title="和泉纱雾"></p><p>​    以后欢迎大家来踩点哟(＾Ｕ＾)ノ~ＹＯ</p>]]></content>
+    <content type="html"><![CDATA[<p>​    花了一天时间终于弄出个样儿来啦^_^。</p><p><img src="/images/he.jpg" alt="纱雾" title="和泉纱雾"></p><p>​    以后欢迎大家来踩点哟(＾Ｕ＾)ノ~ＹＯ</p>]]></content>
     
     <summary type="html">
     
       
       
         &lt;p&gt;​    花了一天时间终于弄出个样儿来啦^_^。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/.io//%E5%92%8C%E6%B3%89%E7%BA%B1%E9%9B%BE.jpg&quot; alt=&quot;纱雾&quot; title=&quot;和泉纱雾&quot;&gt;&lt;/p&gt;
-&lt;p&gt;​    以后欢迎大家来踩点哟(＾
+&lt;p&gt;&lt;img src=&quot;/images/he.jpg&quot; alt=&quot;纱雾&quot; title=&quot;和泉纱雾&quot;&gt;&lt;/p&gt;
+&lt;p&gt;​    以后欢迎大家来踩点哟(＾Ｕ＾)ノ~ＹＯ&lt;/p&gt;
+
       
     
     </summary>
