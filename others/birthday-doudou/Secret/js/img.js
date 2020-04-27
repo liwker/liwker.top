@@ -32,4 +32,25 @@ $(function () {
         li.eq(i).css({transform:"rotate("+n+"deg)"})
         li.eq(i).find('img').css({width:'250px',height:'350px'})
         li.eq(i).show();
-        if (parseInt(li.eq(i).css('top'))
+        if (parseInt(li.eq(i).css('top'))<0){
+            data.top=parseInt(Math.random() * 20 +5)+"%";
+        }
+        if (parseInt(li.eq(i).css('left'))<0){
+            data.left=parseInt(Math.random() * 15 +5)+"%";
+        }
+        if (parseInt(li.eq(i).css('right'))<0){
+            data.right=parseInt(Math.random() * 15 +5)+"%";
+        }
+        if (parseInt(li.eq(i).css('bottom'))<0){
+            data.bottom=parseInt(Math.random() * 30 +15)+"%";
+        }
+        li.eq(i).stop().animate(data,3000);
+    }
+	
+	var beg=$('.begin');
+    beg.click(function(){
+        $(this).hide();
+        $('audio')[0].play();
+        feiru();
+    });
+})

@@ -643,7 +643,15 @@ S.Shape = (function () {
 
       if (n.dots.length > dots.length) {
         size = n.dots.length - dots.length;
-        for (var d = 1; d <= size; d++) { dots.push(new s.dot(a.w 2, a.h 2)); } var d="0," i="0;" while (n.dots.length> 0) {
+        for (var d = 1; d <= size; d++) {
+          dots.push(new S.Dot(a.w / 2, a.h / 2));
+        }
+      }
+
+      var d = 0,
+          i = 0;
+
+      while (n.dots.length > 0) {
         i = Math.floor(Math.random() * n.dots.length);
         dots[d].e = fast ? 0.25 : (dots[d].s ? 0.14 : 0.11);
 
@@ -704,4 +712,3 @@ S.Shape = (function () {
 
 
 S.init();
-</=>
